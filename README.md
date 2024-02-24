@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.buymeacoffee.com/ozax" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" width="150" ></a>
 
-[![linkedin-omar-abuali](https://img.shields.io/badge/omar%20abuali-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-abuali-7a3a4b2b3)](https://www.linkedin.com/in/omar-abuali-7a3a4b2b3)
+[![linkedin-omar-abuali](https://img.shields.io/badge/omar%20abuali-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-abuali-7a3a4b2b3)](https://www.linkedin.com/in/omar-abuali)
 [![GitHub followers](https://img.shields.io/github/followers/omarabuali4?style=social)](https://github.com/omarabuali4)
 [![twitter-saninyurii](https://img.shields.io/twitter/follow/x?style=social)](https://twitter.com/x)
